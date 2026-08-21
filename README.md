@@ -1,6 +1,7 @@
 # 💫 About Me:
 Aku seorang Mahasiswa di Universitas 17 Agustus 1945 Surabaya, aku seorang freelance biasa<br>
 
+https://sociabuzz.com/neonishikawa/tribe
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Destyan Ricky Permana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Destyan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kotone Ryo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@NekoGame07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaffuchino2007@gmail.com) 
