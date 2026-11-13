@@ -1,19 +1,57 @@
-# 💫 About Me:
-Aku seorang Mahasiswa di Universitas 17 Agustus 1945 Surabaya, aku seorang freelance biasa<br>
+<div align="center">
 
-https://sociabuzz.com/neonishikawa/tribe
+<img src="profile-banner.png" alt="NeoNishikawa" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Destyan Ricky Permana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Destyan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kotone Ryo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@NekoGame07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaffuchino2007@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NeoNishikawa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NeoNishikawa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeoNishikawa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-9916d2?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/neonishikawa/tribe)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=NeoNishikawa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tentang saya
+
+Aku seorang Mahasiswa di Universitas 17 Agustus 1945 Surabaya, dan juga freelance web developer.<br>
+Fokus aku: membangun aplikasi web dan Android yang rapi, cepat, dan jujur — tanpa fitur yang tidak perlu.
+
+Sedang mengerjakan **[SoraNema](https://github.com/NeoNishikawa/SoraNema)** — pelacak anime pribadi versi web dan Android.
+
+---
+
+## Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+Dominan `JavaScript` dan `PHP`, didukung `HTML/CSS` untuk tampilan, `Kotlin` untuk aplikasi Android, dan `Rust` untuk alat bantu CLI.
+
+---
+
+## Proyek
+
+| Proyek | Deskripsi | Tautan |
+|---|---|---|
+| **SoraNema** | Pelacak anime pribadi — aplikasi web dulu, sekarang web + Android APK. Katalog, detail, episode, dan progres menonton tersimpan di perangkat sendiri. | [SoraNema](https://github.com/NeoNishikawa/SoraNema) |
+| **iLovenimeV2.9** | Web tracker anime berbasis Node.js; katalog, detail, dan mirror untuk menonton anime di browser. | [iLovenimeV2.9](https://github.com/NeoNishikawa/iLovenimeV2.9) |
+| **Pertanian-Design** | Desain halaman pertanian — eksperimen layout buku pertanian dan tata letak web. | [Pertanian-Design](https://github.com/NeoNishikawa/Pertanian-Design) |
+| **Article** | Landing page personal/berisi konten tulisan. | [Article](https://github.com/NeoNishikawa/Article) |
+| **western** | Template website statis dengan gaya western/kafe. | [western](https://github.com/NeoNishikawa/western) |
+
+---
+
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=NeoNishikawa&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=NeoNishikawa&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeoNishikawa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
