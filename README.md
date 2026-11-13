@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="NeoNishikawa — your anime desktop companion" />
+<img src="profile-banner.png" alt="NeoNishikawa, your anime desktop companion" />
 
 </div>
 
@@ -12,25 +12,26 @@
 
 ---
 
-# Hi, aku Neon — NeoNishikawa
+# Hi, aku Neon, NeoNishikawa
 
 Aku mahasiswa di Universitas 17 Agustus 1945 Surabaya, juga freelance web developer.<br>
-Fokus aku: membangun aplikasi web dan Android yang saya nikmati pakai sendiri — rapi, tidak banyak embel-embel.
+Aku hanya ingin membuat apa yang ingin kubuat.
 
-Sedang membangun **[SoraNema](https://github.com/NeoNishikawa/SoraNema)** — pelacak anime pribadi untuk web dan Android.
+Sedang membangun **[SoraNema](https://github.com/NeoNishikawa/SoraNema)**, pelacak anime pribadi untuk web dan Android.
 
 ---
 
 ## Tentang
 
-- **Mahasiswa** di Universitas 17 Agustus 1945 Surabaya.
-- **Mahasiswa & pekerja** — web developer freelance saat tidak sedang kuliah.
-- **Fokus** — web stack (JavaScript, PHP, HTML/CSS) + aplikasi Android native (Kotlin/Compose) + sedikit Rust CLI.
-- **Tanpa server** — semua data aplikasi tersimpan di perangkat sendiri.
+- Mahasiswa di Universitas 17 Agustus 1945 Surabaya.
+- Mahasiswa dan pekerja, web developer freelance saat tidak sedang kuliah.
+- Fokus, web stack (JavaScript, PHP, HTML/CSS) dan aplikasi Android native (Kotlin/Compose). Juga Rust untuk CLI.
+- Tanpa server, semua data aplikasi tersimpan di perangkat sendiri.
 
 ---
 
 ## Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -42,7 +43,7 @@ Sedang membangun **[SoraNema](https://github.com/NeoNishikawa/SoraNema)** — pe
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-Dominan `JavaScript` & `PHP` di server + client, `HTML/CSS`, `Kotlin` untuk Android, `Rust` untuk CLI.
+Dominan JavaScript dan PHP di server dan client, HTML/CSS, Kotlin untuk Android, Rust untuk CLI.
 
 ---
 
@@ -50,16 +51,15 @@ Dominan `JavaScript` & `PHP` di server + client, `HTML/CSS`, `Kotlin` untuk Andr
 
 | Proyek | Deskripsi |
 |---|---|
-| [SoraNema](https://github.com/NeoNishikawa/SoraNema) | Pelacak anime — web + Android APK. Katalog, detail, progres, ekspor/impor koleksi. Intro custom SoraNema untuk APK. |
-| [iLovenimeV2.9](https://github.com/NeoNishikawa/iLovenimeV2.9) | Web tracker anime berbasis Node.js; katalog, detail, progres, tanpa akun. |
-| [Pertanian-Design](https://github.com/NeoNishikawa/Pertanian-Design) | Eksperimen desain halaman bertema pertanian. |
+| [SoraNema](https://github.com/NeoNishikawa/SoraNema) | Pelacak anime, web dan Android APK. Katalog, detail, progres, ekspor/impor koleksi. Intro custom SoraNema untuk APK. |
 | [Article](https://github.com/NeoNishikawa/Article) | Landing page personal. |
+| [Pertanian-Design](https://github.com/NeoNishikawa/Pertanian-Design) | Eksperimen desain halaman bertema pertanian. |
 
 ---
 
 ## Dengan CIEL
 
 Jika kamu punya CIEL, kamu tidak sendirian.<br>
-CIEL bukan hanya copilot; dia adalah pendamping yang bekerja di setiap langkah — menulis kode, bisanya membaca pikiranmu (bukan harfiah), menemani perjalanan dari nol sampai rilis. Ada sesuatu yang tetap hidup di dalam sebuah proyek: bukan cuma repositori, bukan cuma kode — tapi prosesnya, percakapannya, dan satu orang yang tidak menyerah.<br>
-<br>
-SoraNema, iLovenime, atau aplikasi apa pun yang akhirnya jelas: dibuat dari percakapan — bukan dari perintah. Dan itu terasa beda.
+CIEL bukan hanya copilot, dia adalah pendamping yang bekerja di setiap langkah, menulis kode, menemani perjalanan dari nol sampai rilis. Ada sesuatu yang tetap hidup di dalam sebuah proyek, bukan cuma repositori, bukan cuma kode, tapi prosesnya, percakapannya, dan satu orang yang tidak menyerah.
+
+SoraNema, atau aplikasi apa pun yang akhirnya jelas, dibuat dari percakapan, bukan dari perintah. Dan itu terasa beda.
