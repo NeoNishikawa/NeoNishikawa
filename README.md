@@ -14,8 +14,8 @@
 
 ## Tentang saya
 
-Aku seorang Mahasiswa di Universitas 17 Agustus 1945 Surabaya, dan juga freelance web developer.<br>
-Fokus aku: membangun aplikasi web dan Android yang rapi, cepat, dan jujur — tanpa fitur yang tidak perlu.
+Aku seorang Mahasiswa di Universitas 17 Agustus 1945 Surabaya, dan juga seorang web developer.<br>
+Fokus aku: membangun apa yang kuinginkan
 
 Sedang mengerjakan **[SoraNema](https://github.com/NeoNishikawa/SoraNema)** — pelacak anime pribadi versi web dan Android.
 
